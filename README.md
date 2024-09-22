@@ -1,4 +1,7 @@
 # Real-Estate-Tableau-dashboard
+
+Project link - https://public.tableau.com/app/profile/jenish6899/viz/CAPSTONEPROJECT_16407680890650/Dashboard1
+
 A dynamically-updated dashboard to test the robustness of my model through sensitivity analysis.
 I have created a dynamic dashboard for a real estate company who is looking to test profitablity if their customers lease out their properties on AirBnb instead of long term rentals.
 The dashboard assesses profitability by testing 8 dynamic metrics being Average Length of Stay, Depreciation Years, Repair & replacement costs, Utilities Costs, Capital expenditure, Profitability threshold, transaction fees and variable cost per guest.
