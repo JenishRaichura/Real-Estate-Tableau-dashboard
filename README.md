@@ -1,2 +1,2 @@
 # Real-Estate-Tableau-dashboard
-Dynamic profitability analysis using Tableau
+A dynamically-updated dashboard to test the robustness of my model through sensitivity analysis.
